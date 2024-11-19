@@ -1,0 +1,47 @@
+[
+  {
+    "username": "Koustav",
+    "email": "abc@gmail.com",
+    "password": "abc1234567889"
+  },
+  {
+    "username": "KoustavSS",
+    "email": "abc7@gmail.com",
+    "password": "qwerty111"
+  },
+  {
+    "username": "Kunal Singh",
+    "email": "Kunal123@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "username": "Kunal Singh",
+    "email": "Kunal123@gmail.com",
+    "password": "123456789"
+  },
+  {
+    "username": "NewUser",
+    "email": "NewUser@gmail.com",
+    "password": "abcdefg123"
+  },
+  {
+    "username": "sreedipta",
+    "email": "abcd@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "username": "Shushant",
+    "email": "s@gmail.com",
+    "password": "12345678"
+  },
+  {
+    "username": "Rahul Singh",
+    "email": "RS@gmail.com",
+    "password": "1234qwer"
+  },
+  {
+    "username": "New.User",
+    "email": "New.User@gmail.com",
+    "password": "12345678"
+  }
+]
